@@ -1,7 +1,6 @@
 // get all dribbble shots
 var allShots = document.getElementsByClassName("dribbble-shot");
 
-console.log(allShots.length);
 // for every shot
 for (var i = 0; i < allShots.length; i++){
   // var views = allShots[i].getElementsByClassName('views');
@@ -21,6 +20,3 @@ for (var i = 0; i < allShots.length; i++){
   
   likeContainer.textContent = likeCount + likePercent;
 } 
-
-console.log('ytwo');
-
