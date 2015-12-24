@@ -1,2 +1,2 @@
 # dribbble-conversion
-Chrome extension to add percentage of viewers who liked as a stat on every dribbble shot.
+Chrome extension to append every dribbble shot with the percentage of viewers who liked it.
