@@ -28,4 +28,4 @@ The "_dontpack" dir contains PSDs for promo images and similar things that would
 
 ---------
 
-enjoy!
+enjoy! PRs and feedback welcome here or [@patrickmakes](https://twitter.com/PatrickMakes)
